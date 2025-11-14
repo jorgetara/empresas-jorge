@@ -7,7 +7,7 @@ function Inicio() {
     <Link to="/empresa"><button>Mostrar delegaciones</button></Link>
     <p>Ver ubicaciones en el mapa</p>
     <Link to="/map"><button>ver localizacion</button></Link>
-    
+  
     </>
   )
 }

@@ -25,6 +25,7 @@ function Mapa() {
   return (
     <>
       <div>
+        <h2>Mapa</h2>
         <MapContainer
           style={style}
           center={position}
