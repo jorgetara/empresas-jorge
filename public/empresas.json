@@ -1,0 +1,24 @@
+[
+    {"id":1,
+    "nombre":"TechMadrid",
+    "ciudad":"Madrid",
+    "latlng":[40.4168,-3.7038]
+    
+    },
+    {"id":2,
+    "nombre":"DataBarcelona",
+    "ciudad":"Barcelona",
+    "latlng":[41.3874,2.1686]
+    
+    },
+    {"id":3,
+    "nombre":"CloudSevilla",
+    "ciudad":"Sevilla",
+    "latlng":[37.3891,-5.9845]
+    },
+    {"id":4,
+    "nombre":"WebValencia",
+    "ciudad":"Valencia",
+    "latlng":[39.4699,-0.3763]
+    }
+]
